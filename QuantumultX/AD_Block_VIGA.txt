@@ -1,0 +1,7 @@
+
+
+DOMAIN-SUFFIX,s3plus.meituan.net,REJECT
+DOMAIN-KEYWORD,toutiao.com,REJECT
+DOMAIN-KEYWORD,byteimg.com,REJECT
+
+
